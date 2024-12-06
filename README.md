@@ -1,7 +1,3 @@
-Here’s a **README** template for your **Digital Diary with Sentiment Analysis** project:
-
----
-
 # Digital Diary with Sentiment Analysis
 
 ## Overview
