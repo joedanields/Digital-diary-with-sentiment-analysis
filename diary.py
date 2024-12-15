@@ -4,6 +4,7 @@ from textblob import TextBlob
 
 DIARY_FILE = "diary.txt"
 #defining functions
+##
 def load_entries():
     if not os.path.exists(DIARY_FILE):
         return []
